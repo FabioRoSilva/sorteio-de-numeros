@@ -83,6 +83,4 @@ console.log(checkNumber(bolao, prize));
 /*
 OBS: O objetivo não é ter um código bonito, apenas
 praticar o TypeScript.
-
-TO BE CONTINUE...
- */
+*/
